@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusvogado&label=Profile%20views&color=0e75b6&style=flat" alt="marcusvogado" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://marcusvogado.com](https://marcusvogado.com)
-
-- 📝 I regularly write articles on [https://marcusvogado.com/#/blog](https://marcusvogado.com/#/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
